@@ -1,0 +1,15 @@
+{
+  "name": "boilerplate-gulp",
+  "version": "1.0.0",
+  "description": "Boilerplate Gulp",
+  "repository": "https://github.com/iamhayoung/boilerplate-gulp.git",
+  "author": "Hayoung Gam <hahhyoung@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
